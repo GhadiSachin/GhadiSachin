@@ -56,7 +56,7 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 <a href="https://nodejs.org" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>
   
-  <a href="https://www.mongodb.com/" target="_blank"> 
+<a href="https://www.mongodb.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-ar21.svg" alt="Mongodb" width="40" height="40"/> </a>  
   
 <a href="https://postman.com" target="_blank"> 
