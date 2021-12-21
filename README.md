@@ -32,7 +32,7 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dotnet/dotnet-horizontal.svg" alt="Micorosoft .NET" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dotnet/dotnet-horizontal.svg" alt="Micorosoft.NET" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank">
 <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" width="40" height="40"/>
 </a>
