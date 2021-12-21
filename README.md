@@ -57,6 +57,6 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 <br />
 
 <a href="https://www.linkedin.com/in/sachinghadi/">
-  <img align="right" alt="Sachin Ghadi| Twitter" width="21px" src="https://raw.githubusercontent.com/GhadiSachin/GhadiSachin/master/assets/icons8-linkedin.svg" />
+  <img align="right" alt="Sachin Ghadi| LinkedIN" width="21px" src="https://raw.githubusercontent.com/GhadiSachin/GhadiSachin/master/assets/icons8-linkedin.svg" />
 </a>
 
