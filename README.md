@@ -35,13 +35,6 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 <a href="https://aws.amazon.com" target="_blank">
 <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" width="40" height="40"/>
 </a>
- <a href="https://www.javascript.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="aws" width="40" height="40"/>
-</a>
- <a href="https://nodejs.org/en/" target="_blank">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="aws" width="40" height="40"/>
-</a>
-
 <a href="https://www.w3.org/style/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/>
 </a> 
@@ -55,14 +48,10 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-
-
 <a href="https://nodejs.org" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a> 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a> 
 
