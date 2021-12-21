@@ -29,26 +29,18 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 - 💬 Ask me about anything [here](https://github.com/GhadiSachin/GhadiSachin/issues)
 
 
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
 <a href="https://aws.amazon.com" target="_blank">
 <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" width="40" height="40"/>
 </a>
-
+ <a href="https://www.javascript.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="aws" width="40" height="40"/>
+</a>
+ <a href="https://nodejs.org/en/" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="aws" width="40" height="40"/>
+</a>
 
 <a href="https://www.w3.org/style/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/>
@@ -76,6 +68,8 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
 </p>
 <hr>
+
+p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhadiSachin&show_icons=true&locale=en&theme=tokyonight" alt="SachinGhadi" /></p>
 
 
 <h3 align="left">Contact me:</h3>
