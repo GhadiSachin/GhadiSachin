@@ -76,7 +76,12 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GhadiSachin" /> -->
 [![Sachin Ghadi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=GhadiSachin&theme=react-dark&hide_border=true&area=true)](https://git.io/GhadiSachin)
 
+## 📝 My Technical Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Creating Your First Application With Node.js](https://www.c-sharpcorner.com/article/creating-your-first-application-with-node-js/)
+- [Create An HTTPS Server And Run Application HTTPS In Node.js](https://www.c-sharpcorner.com/article/create-an-https-server-and-run-application-https-in-node-js/)
 
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Contact me:</h3>
 <a href="https://linkedin.com/in/sachinghadi" target="blank">
