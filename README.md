@@ -9,7 +9,7 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 - ❤️ I love writing code & discover challenges in codes
 
 - 💬 Ask me about anything [here](https://github.com/GhadiSachin/GhadiSachin/issues)
-- https://komarev.com/ghpvc/?username=GhadiSachin
+- ![](https://komarev.com/ghpvc/?username=GhadiSachin) <br>
 
 
 <h3 align="left">Languages and Tools:</h3>
