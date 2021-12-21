@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <br />
 
+
 I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
 **About me**
@@ -27,6 +28,7 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 - ❤️ I love writing code & discover challenges in codes
 
 - 💬 Ask me about anything [here](https://github.com/GhadiSachin/GhadiSachin/issues)
+- https://komarev.com/ghpvc/?username=GhadiSachin
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -67,7 +69,13 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
 <hr>
 
-p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhadiSachin&show_icons=true&locale=en&theme=tokyonight" alt="SachinGhadi" /></p>
+<p align=center>
+ <img src="https://github-readme-stats.vercel.app/api?username=GhadiSachin&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GhadiSachin" /> -->
+[![Sachin Ghadi's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=GhadiSachin&theme=react-dark&hide_border=true&area=true)](https://git.io/GhadiSachin)
+
 
 
 <h3 align="left">Contact me:</h3>
