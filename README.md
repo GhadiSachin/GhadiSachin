@@ -56,7 +56,7 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 <a href="https://postman.com" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a> 
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg" alt="react" width="40" height="40"/> </a> 
 
 </p>
 <hr>
