@@ -2,7 +2,7 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
 **About me**
 
-- 💼 Fullstack Engineer at [L&T Infotech](https://www.lntinfotech.com/)
+- 💼 Senior Technical Lead at [Freelance]
 
 - 📈 Work on banking,finance & Card payment domain.
 
