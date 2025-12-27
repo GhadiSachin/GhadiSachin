@@ -5,8 +5,18 @@
 _Hello there this is **Sachin Ghadi**. Working as [Senior Technical Lead ](https://www.linkedin.com/in/SachinGhadi). You can see my opensource work down below._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
- 
-
+<table width="100" align='center'>
+<tr>
+    <td align='center' width="60">
+        <a href="https://medium.com/@sachinghadi"><img src="https://www.flaticon.com/free-icon/medium_3670068?term=medium&page=1&position=4&origin=search&related_id=3670068" width="60">
+        </a>
+    </td>
+    
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/sachinghadi"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    </td>
+</tr>
+</table>
 
 </p>
 
