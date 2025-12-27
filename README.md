@@ -55,7 +55,10 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 </p>
 
 <!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GhadiSachin" /> -->
-[![Sachin Ghadi's Github Activity Graph] [(https://github-readme-activity-graph.vercel.app/graph?username=GhadiSachin&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)]
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GhadiSachin&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
