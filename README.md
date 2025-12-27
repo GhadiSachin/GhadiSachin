@@ -62,13 +62,14 @@ I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
 ## 📝 My Technical Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Creating Your First Application With Node.js](https://www.c-sharpcorner.com/article/creating-your-first-application-with-node-js/)
-- [Create An HTTPS Server And Run Application HTTPS In Node.js](https://www.c-sharpcorner.com/article/create-an-https-server-and-run-application-https-in-node-js/)
+  <!-- C# Corner :START-->
+[Blogs on C# Corner](https://www.c-sharpcorner.com/members/sachin-ghadi2)
+<!-- C# Corner :END-->
+
 <!-- Medium :START-->
 [Blogs on Medium](https://medium.com/@sachinghadi/)
 <!-- Medium :END-->
 
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Contact me:</h3>
 <a href="https://linkedin.com/in/sachinghadi" target="blank">
