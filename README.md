@@ -1,94 +1,78 @@
-<h2 align='center'> <i>Hello, Folks!</h2>  
+I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
-<img align="right" src="https://github.com/GhadiSachin/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+**About me**
 
-_Hello there this is **Sachin Ghadi**. Working as [Senior Technical Lead ](https://www.linkedin.com/in/SachinGhadi). You can see my opensource work down below._  
-<h3 align='center'><i>Social Media Handles</i></h3>
-<p align='center'>
-<table width="100" align='center'>
-<tr>
-    <td align='center' width="60">
-        <a href="https://medium.com/@sachinghadi"><img src="https://www.flaticon.com/free-icon/medium_3670068?term=medium&page=1&position=4&origin=search&related_id=3670068" width="60">
-        </a>
-    </td>
-    
-    <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/sachinghadi"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-    </td>
-</tr>
-</table>
+- 💼 Senior Technical Lead at [Freelance]
+
+- 📈 Work on banking,finance & Card payment domain.
+
+- ❤️ I love writing code & discover challenges in codes
+
+- 💬 Ask me about anything [here](https://github.com/GhadiSachin/GhadiSachin/issues)
+- ![](https://komarev.com/ghpvc/?username=GhadiSachin) <br>
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ <a href="https://dotnet.microsoft.com/en-us" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="aws" width="40" height="40"/></a>
+   
+<a href="https://aws.amazon.com" target="_blank">
+<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" width="40" height="40"/></a>
+  
+<a href="https://www.w3.org/style/css/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/></a>
+  
+<a href="https://expressjs.com" target="_blank"> 
+<img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="60" height="30"/> </a> 
+  
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  
+<a href="https://www.w3.org/html/" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  
+<a href="https://www.jenkins.io" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  
+<a href="https://nodejs.org" target="_blank"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>
+  
+<a href="https://www.mongodb.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Mongodb" width="40" height="40"/> </a>  
+  
+<a href="https://postman.com" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  
+
+<hr>
+
+<p align=center>
+ <img src="https://github-readme-stats.vercel.app/api?username=GhadiSachin&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-<table width="100" align='center'>
-<tr>
- <td align='center'>
-    <b>Currently learning</b>
- </td>
- <td align='center' width="60">
-     <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
- </td>
-</tr>
-</table>
+<!-- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=GhadiSachin" /> -->
 
-</br>
 
-<h2 align='center'><i><a href="https://github.com/GhadiSachin/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/GhadiSachin/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhadiSachin&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GhadiSachin&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ghadisachin/github-readme-activity-graph)
+
+
+## 📝 My Technical Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Creating Your First Application With Node.js](https://www.c-sharpcorner.com/article/creating-your-first-application-with-node-js/)
+- [Create An HTTPS Server And Run Application HTTPS In Node.js](https://www.c-sharpcorner.com/article/create-an-https-server-and-run-application-https-in-node-js/)
+<!-- Medium :START-->
+[Blogs on Medium](https://medium.com/@sachinghadi/)
+<!-- Medium :END-->
+
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Contact me:</h3>
+<a href="https://linkedin.com/in/sachinghadi" target="blank">
+<img align="center" src="https://img.shields.io/badge/-sachinghadi-black?style=flat&logo=linkedin" alt="sachinghadi" />
 </a>
-<a href="https://github.com/GhadiSachin/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhadiSachin&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p>
 
-</br>
 
-<h2 align='center'><i>Languages and Tools</i></h2>
-
-<table width="100">
-<tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg>
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg>
-    </td>
-</tr>
-<tr>
-    <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-    </td>
-    <td align='center' width="190">
-            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="60"/>
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="110">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg">
-    </td>
-    
-</tr>
-
-</table>
-
-<h2 align='center'><i>Top Repos</i></h2>
-
-<p align="center">
-<a href="https://github.com/GhadiSachin/Python-assignments-">
-
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhadiSachin&repo=Python-assignments-&theme=vue-dark&hide_border=true" height="185">
-</a>
-</p>
