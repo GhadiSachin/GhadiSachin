@@ -89,6 +89,6 @@ _Hello there this is **Sachin Ghadi**. Working as [Senior Technical Lead ](https
 <p align="center">
 <a href="https://github.com/GhadiSachin/Python-assignments-">
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhadiSachin&repo=Python-assignments-&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
