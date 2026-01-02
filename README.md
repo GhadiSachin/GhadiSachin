@@ -68,6 +68,18 @@
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Alternative 1: GitHub Profile Summary Cards -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhadiSachin&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhadiSachin&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhadiSachin&theme=tokyonight)
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
