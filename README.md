@@ -141,5 +141,3 @@ Brief description of your AI-powered development tool
 ⭐️ From [GhadiSachin](https://github.com/GhadiSachin)
 
 </div>
-```
-***
