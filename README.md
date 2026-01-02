@@ -101,7 +101,7 @@ Brief description how we can create theme in vs code
 
 <!-- BLOG-POST-LIST:START -->
 - [7 Mistakes .NET Developers Should Avoid](https://medium.com/p/13916f630bc6)
-- [Where to Host .NET Apps in 2025: My Top 5 Picks] (https://www.linkedin.com/pulse/where-host-net-apps-2025-my-top-5-picks-sachin-ghadi-rkc8f/)
+- [Where to Host .NET Apps in 2025: My Top 5 Picks](https://www.linkedin.com/pulse/where-host-net-apps-2025-my-top-5-picks-sachin-ghadi-rkc8f/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on my blog...](https://medium.com/@Sachinghadi)
