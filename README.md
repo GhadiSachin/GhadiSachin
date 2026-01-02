@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Sachin Ghadi]
 
-### Senior .NET Developer | Cloud Architect | Tech Content Creator
+### Senior .NET Developer|Tech Lead | Techical  Architect | Tech Content Creator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinghadi/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]([YOUR_BLOG_URL](https://medium.com/@Sachinghadi))
