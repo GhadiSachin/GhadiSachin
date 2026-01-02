@@ -55,19 +55,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhadiSachin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GhadiSachin&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhadiSachin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -79,6 +66,18 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhadiSachin&theme=tokyonight)
 
 </div>
+
+hello
+<div align="center">
+
+<!-- Streak Stats (Usually more reliable) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GhadiSachin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<!-- Metrics -->
+![Metrics](https://metrics.lecoq.io/GhadiSachin?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
+
+</div>
+
 
 ---
 
