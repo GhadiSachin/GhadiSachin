@@ -88,29 +88,24 @@
 
 ## 🔥 Featured Projects
 
-### 🌟 [Project Name 1](PROJECT_LINK)
-**Tech Stack:** ASP.NET Core, Azure, React  
-Brief description of your Visual Studio extension or SaaS product
+### 🌟 [Learn Python with Me](https://github.com/GhadiSachin/Python-assignments-)
+**Tech Stack:** Python
+Learn pythin from scratch with me 
 
-### 🌟 [Project Name 2](PROJECT_LINK)
-**Tech Stack:** .NET 8, Docker, PostgreSQL  
-Brief description of your microservices architecture project
-
-### 🌟 [Project Name 3](PROJECT_LINK)
-**Tech Stack:** C#, Azure Functions, AI Integration  
-Brief description of your AI-powered development tool
+### 🌟 [Vs Code Extension](https://github.com/GhadiSachin/colors-of-india-themes)
+**Tech Stack:** 
+Brief description how we can create theme in vs code 
 
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Mistakes .NET Developers Should Avoid](BLOG_LINK)
-- [Building Scalable Microservices with .NET](BLOG_LINK)
-- [Azure Cloud Architect Roadmap](BLOG_LINK)
+- [7 Mistakes .NET Developers Should Avoid](https://medium.com/p/13916f630bc6)
+- [Where to Host .NET Apps in 2025: My Top 5 Picks([BLOG_LINK](https://www.linkedin.com/pulse/where-host-net-apps-2025-my-top-5-picks-sachin-ghadi-rkc8f/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more on my blog...](YOUR_BLOG_URL)
+➡️ [Read more on my blog...](https://medium.com/@Sachinghadi)
 
 ---
 
