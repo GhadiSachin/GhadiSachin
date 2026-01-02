@@ -1,6 +1,4 @@
-Based on your profile as a Senior .NET Developer with 13+ years of experience, cloud architecture interests, and expertise in C#, Azure, and modern development practices, here's a complete GitHub README.md that showcases your skills professionally:[1][2]
 
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm [Your Name]
