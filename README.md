@@ -95,8 +95,9 @@ Learn pythin from scratch with me
 Brief description how we can create theme in vs code 
 
 ### 🌟 [Check My Vs Code Extensions )
-**Year End Countdown:** [https://marketplace.visualstudio.com/items?itemName=ProudIndian.year-end-countdown]
-**Colors Of India:** [https://marketplace.visualstudio.com/items?itemName=ProudIndian.colors-of-india-themes]
+[Year End Countdown](https://marketplace.visualstudio.com/items?itemName=ProudIndian.year-end-countdown)
+[Colors Of India](https://marketplace.visualstudio.com/items?itemName=ProudIndian.colors-of-india-themes)
+
 ---
 
 ## 📝 Latest Blog Posts
