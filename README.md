@@ -31,8 +31,7 @@
 - ✍️ Technical writer on Medium & LinkedIn
 - 🚀 Passionate about AI-powered developer productivity
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=GhadiSachin&theme=tokyonight&hide_border=true)
-——
+
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
@@ -63,6 +62,8 @@
 
 ---
 ## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GhadiSachin&theme=tokyonight&hide_border=true)
 
 <div align="center">
 
