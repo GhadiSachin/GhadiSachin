@@ -117,6 +117,7 @@
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=GhadiSachin&theme=tokyonight&no-frame=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GhadiSachin&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
