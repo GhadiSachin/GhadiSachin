@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm [Sachin Ghadi]
 
-### Senior .NET Developer • Tech Lead • Technical Architect • Tech Content Creator
+### Senior .NET Developer | Azure Architect | AI Engineer | Tech Lead | VS Code Extension Creator | Technical Content Creator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinghadi/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://medium.com/@Sachinghadi)
@@ -21,7 +21,9 @@
 🔹 Passionate about **cloud architecture**, microservices, and **Azure**  
 🔹 Building developer productivity tools, VS Code themes, and SaaS products
 🔹 Sharing knowledge through **technical blogs** and **LinkedIn content**  
-🔹 Currently exploring **AI integration** with development workflows  
+🔹 Building AI-powered developer workflows using GitHub Copilot, Claude, ChatGPT, n8n and Azure OpenAI
+🔹 Automating software development and business processes with AI Agents and MCP
+🔹 Exploring GenAI, Prompt Engineering, RAG and AI-assisted software architecture
 
 ## 🏅 Highlights
 
@@ -31,6 +33,17 @@
 - ✍️ Technical writer on Medium & LinkedIn
 - 🚀 Passionate about AI-powered developer productivity
 ---
+## 🌱 Currently Learning
+
+- AI Agents
+- MCP Servers
+- LangGraph
+- CrewAI
+- Semantic Kernel
+- Microsoft Copilot Studio
+- Azure AI Foundry
+- AI-powered .NET Applications
+
 
 ## 💻 Tech Stack
 
@@ -48,6 +61,28 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 🧠 AI Skills
+
+### AI Development
+- Prompt Engineering
+- AI-assisted Development
+- AI APIs
+- LLM Integration
+- RAG (Retrieval-Augmented Generation)
+
+### AI Tools
+- GitHub Copilot
+- Claude
+- ChatGPT
+- Google AI Studio
+- Azure OpenAI
+- Ollama
+
+### AI Automation
+- n8n
+- AI Agents
+- MCP (Model Context Protocol)
 
 ### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -123,12 +158,13 @@ A step-by-step guide to building and publishing a custom VS Code theme extension
 
 ## 🎯 Current Focus
 
-- 📚 Preparing for **Azure Cloud Architect** certification
-- 🛠️ Building **Visual Studio extensions** for developer productivity
-- 🚀 Developing a **SaaS product** from scratch
-- ✍️ Creating **technical content** on LinkedIn and personal blog
-- 🤖 Exploring **AI integration** with n8n workflows
-
+- 🤖 Building AI-powered developer tools
+- 🔥 Learning Agentic AI & MCP (Model Context Protocol)
+- ⚡ Automating workflows with n8n + AI
+- ☁️ Azure AI & Azure OpenAI
+- 🛠 Building VS Code Extensions
+- 🚀 Developing SaaS Products
+- ✍️ Writing Technical Blogs & LinkedIn Content
 ---
 
 ## 💡 Fun Fact
