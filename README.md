@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm [Sachin Ghadi]
 
-### Senior .NET Developer|Tech Lead | Techical  Architect | Tech Content Creator
+### Senior .NET Developer • Tech Lead • Technical Architect • Tech Content Creator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinghadi/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://medium.com/@Sachinghadi)
@@ -16,15 +16,23 @@
 
 ## 🚀 About Me
 
-🔹 **13+ years** of experience in .NET/C# development  
+🔹 **14+ years** of experience in .NET/C# development  
 🔹 Building **enterprise-grade applications** with modern .NET Core/ASP.NET Core  
 🔹 Passionate about **cloud architecture**, microservices, and **Azure**  
-🔹 Creating **Visual Studio extensions** and **SaaS products**  
+🔹 Building developer productivity tools, VS Code themes, and SaaS products
 🔹 Sharing knowledge through **technical blogs** and **LinkedIn content**  
 🔹 Currently exploring **AI integration** with development workflows  
 
----
+## 🏅 Highlights
 
+- 💼 14+ years of experience building enterprise applications
+- ☁️ Azure & Cloud Architecture enthusiast
+- 🛠️ Published multiple VS Code extensions
+- ✍️ Technical writer on Medium & LinkedIn
+- 🚀 Passionate about AI-powered developer productivity
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=GhadiSachin&theme=tokyonight&hide_border=true)
+——
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
@@ -59,10 +67,10 @@
 <div align="center">
 
 <!-- Alternative 1: GitHub Profile Summary Cards -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhadiSachin&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhadiSachin&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhadiSachin&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhadiSachin&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhadiSachin&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhadiSachin&theme=tokyonight)
 
 </div>
 
@@ -88,11 +96,11 @@
 
 ### 🌟 [Learn Python with Me](https://github.com/GhadiSachin/Python-assignments-)
 **Tech Stack:** Python
-Learn pythin from scratch with me 
+Learn Python from scratch with me.
 
-### 🌟 [Vs Code Extension](https://github.com/GhadiSachin/colors-of-india-themes)
+### 🌟 [VS Code Theme Extension](https://github.com/GhadiSachin/colors-of-india-themes)
 **Tech Stack:** 
-Brief description how we can create theme in vs code 
+A step-by-step guide to building and publishing a custom VS Code theme extension.
 
 ### 🌟 [Check My Vs Code Extensions]
 [Year End Countdown](https://marketplace.visualstudio.com/items?itemName=ProudIndian.year-end-countdown)
