@@ -98,7 +98,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GhadiSachin&theme=tokyonight&hide_border=true)
+
 
 <div align="center">
 
@@ -116,10 +116,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=GhadiSachin&theme=tokyonight&no-frame=true&row=1&column=7)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GhadiSachin&theme=tokyonight&no-frame=true&row=1&column=7)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=GhadiSachin&theme=tokyonight&hide_border=true)
 </div>
 
 ---
