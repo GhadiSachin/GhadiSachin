@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm [Sachin Ghadi]
 
-### Senior .NET Developer | Azure Architect | AI Engineer | Tech Lead | VS Code Extension Creator | Technical Content Creator
+### Senior .NET Developer | Azure Architect | AI Engineer | Tech Lead | Technical Architect| Technical Content Creator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinghadi/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://medium.com/@Sachinghadi)
