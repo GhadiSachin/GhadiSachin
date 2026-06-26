@@ -5,7 +5,7 @@
 ### Senior .NET Developer|Tech Lead | Techical  Architect | Tech Content Creator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinghadi/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]([YOUR_BLOG_URL](https://medium.com/@Sachinghadi))
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]((https://medium.com/@Sachinghadi))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GhadiSachin&color=blueviolet&style=for-the-badge)
