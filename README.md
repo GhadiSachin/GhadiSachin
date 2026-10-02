@@ -1,8 +1,7 @@
 <div align="center">
-👋 Hi, I'm Sachin Ghadi
-Senior Technical Lead · Technical Architect · AI & Cloud
+👋 Hi, I'm [Sachin Ghadi]
+Senior .NET Developer | Azure Architect | AI Engineer | Tech Lead | Technical Architect | Technical Content Creator
 
-14+ years of experience designing and building scalable enterprise and cloud-native systems across .NET, React, Azure, AWS, microservices and Generative AI.
 
 
 
@@ -14,104 +13,46 @@ Senior Technical Lead · Technical Architect · AI & Cloud
 </div>
 🚀 About Me
 
-I'm a Senior Technical Lead and Technical Architect with 14+ years of experience designing, building and modernizing enterprise software systems.
+🔹 14+ years of experience in .NET/C# development
+🔹 Building enterprise-grade applications with modern .NET Core/ASP.NET Core
+🔹 Passionate about cloud architecture, microservices, and Azure & AWS
+🔹 Building developer productivity tools, VS Code themes, and SaaS products
+🔹 Sharing knowledge through technical blogs and LinkedIn content
+🔹 Building AI-powered developer workflows using GitHub Copilot, Claude, ChatGPT, n8n and Azure OpenAI
+🔹 Automating software development and business processes with AI Agents and MCP
+🔹 Exploring GenAI, Prompt Engineering, RAG and AI-assisted software architecture
 
-My work spans technical architecture, cloud architecture, distributed systems, microservices, .NET, React, Azure, AWS and Generative AI.
+🏅 Highlights
 
-🏗️ Designing scalable enterprise and cloud-native architectures
+💼 14+ years of experience building enterprise applications
 
-☁️ Building solutions across Azure and AWS
+☁️ Azure, AWS & Cloud Architecture enthusiast
 
-⚙️ Developing distributed systems with .NET, ASP.NET Core and microservices
+🛠️ Published multiple VS Code extensions
 
-⚛️ Building modern web applications with React and JavaScript
+✍️ Technical writer on Medium & LinkedIn
 
-🤖 Building and exploring Generative AI, RAG and AI Agent solutions
+🚀 Passionate about AI-powered developer productivity
 
-🔌 Working with MCP (Model Context Protocol) and AI-powered developer workflows
-
-🚀 Improving developer productivity through AI-assisted engineering and automation
-
-🧩 Building developer tools, VS Code extensions and SaaS products
-
-✍️ Sharing technical knowledge through Medium and LinkedIn
-
-🏗️ Architecture & Engineering
-
-My primary areas of engineering focus include:
-
-Technical Architecture & System Design
-
-Microservices & Distributed Systems
-
-Cloud-Native Architecture
-
-Event-Driven Architecture
-
-API Design & Integration
-
-Scalability & Performance Engineering
-
-CI/CD & Developer Productivity
-
-Generative AI & RAG
-
-AI Agents & MCP
-
-Enterprise Application Modernization
-
-🧠 AI & Generative AI
-AI Engineering
-
-Generative AI
-
-Large Language Models (LLMs)
-
-Retrieval-Augmented Generation (RAG)
-
-Prompt Engineering
-
-LLM Integration
-
-AI APIs
-
-AI-assisted Software Development
+🌱 Currently Learning
 
 AI Agents
 
-AI Platforms & Tools
+MCP Servers
 
-Azure OpenAI
+LangGraph
 
-Azure AI Foundry
-
-Microsoft Copilot Studio
-
-GitHub Copilot
-
-Claude
-
-ChatGPT
-
-Google AI Studio
-
-Ollama
+CrewAI
 
 Semantic Kernel
 
-AI Automation
+Microsoft Copilot Studio
 
-n8n
+Azure AI Foundry
 
-AI Agents
+AI-powered .NET Applications
 
-MCP (Model Context Protocol)
-
-AI-powered Developer Workflows
-
-Business Process Automation
-
-💻 Technology Stack
+💻 Tech Stack
 Languages & Frameworks
 
 
@@ -130,6 +71,41 @@ Cloud & DevOps
 
 
 
+🧠 AI Skills
+AI Development
+
+Prompt Engineering
+
+AI-assisted Development
+
+AI APIs
+
+LLM Integration
+
+RAG (Retrieval-Augmented Generation)
+
+AI Tools
+
+GitHub Copilot
+
+Claude
+
+ChatGPT
+
+Google AI Studio
+
+Azure OpenAI
+
+Ollama
+
+AI Automation
+
+n8n
+
+AI Agents
+
+MCP (Model Context Protocol)
+
 Databases
 
 
@@ -143,107 +119,78 @@ Tools & IDEs
 
 
 
-📊 Engineering Impact
-<div align="center">
-Impact	Result
-⚡ Angular Performance Improvement	57%
-🚀 Processing Efficiency Improvement	40%
-📈 Application Performance Improvement	35%
-👥 Insurance Program Enrollments	6M+
-🧑‍💻 Engineers Led	8
-</div>
-🔥 Featured Projects
-🌟 Learn Python with Me
+📊 GitHub Stats
+<div align="center"> <!-- Alternative 1: GitHub Profile Summary Cards -->
 
-Tech Stack: Python
 
-A collection of Python assignments and exercises for learning and practicing Python fundamentals.
 
-👉 View Repository
-
-🌟 Colors of India — VS Code Theme
-
-Tech Stack: VS Code · Developer Experience
-
-A custom VS Code theme inspired by the colors of India, published as a Visual Studio Code extension.
-
-👉 View Repository
-
-🌟 VS Code Extensions
-
-Developer productivity and utility extensions published for Visual Studio Code.
-
-Year End Countdown
-
-Colors Of India
-
-✍️ Technical Writing
-
-I write about .NET, Azure, cloud architecture, software development, AI and developer productivity.
-
-Recent Articles
-
-7 Mistakes .NET Developers Should Avoid
-
-Where to Host .NET Apps in 2025: My Top 5 Picks
-
-Follow My Writing
-
-📝 Medium: @Sachinghadi
-
-💼 LinkedIn: linkedin.com/in/sachinghadi
-
-🌐 My Portfolios
-💼 Professional Portfolio
-
-My primary professional portfolio covering technical architecture, experience, engineering expertise, achievements and projects.
-
-👉 ghadisachin.github.io
-
-🌌 Interactive 3D Portfolio
-
-An interactive visual experience showcasing my technical journey, skills and work.
-
-👉 Explore Interactive 3D Portfolio
-
-🎯 Current Focus
-
-🤖 Building AI-powered developer tools
-
-🧠 Exploring Agentic AI and AI Agents
-
-🔌 Building with MCP (Model Context Protocol)
-
-⚡ Automating workflows with n8n + AI
-
-☁️ Azure AI, Azure OpenAI and Azure AI Foundry
-
-🏗️ AI-powered software architecture
-
-🛠️ Building VS Code extensions and developer tools
-
-🚀 Developing SaaS products and automation solutions
-
-✍️ Writing about software architecture, .NET and AI
-
-📈 GitHub Activity
-<div align="center">
 
 </div>
-🏆 GitHub Streak
+🏆 GitHub Trophies
 <div align="center">
 
 </div>
 📈 Contribution Graph
 
-💡 Beyond Code
+🔥 Featured Projects
+🌟 Learn Python with Me
 
-🏃‍♂️ Early morning walker · ☕ Coffee-driven coder · 📖 Lifelong learner
+Tech Stack: Python
+Learn Python from scratch with me.
 
+🌟 VS Code Theme Extension
+
+Tech Stack:
+A step-by-step guide to building and publishing a custom VS Code theme extension.
+
+🌟 [Check My Vs Code Extensions]
+
+Year End Countdown
+
+Colors Of India
+
+📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+7 Mistakes .NET Developers Should Avoid
+
+Where to Host .NET Apps in 2025: My Top 5 Picks
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ Read more on my blog...
+
+🎯 Current Focus
+
+🤖 Building AI-powered developer tools
+
+🔥 Learning Agentic AI & MCP (Model Context Protocol)
+
+⚡ Automating workflows with n8n + AI
+
+☁️ Azure AI & Azure OpenAI
+
+🛠 Building VS Code Extensions
+
+🚀 Developing SaaS Products
+
+✍️ Writing Technical Blogs & LinkedIn Content
+
+💡 Fun Fact
+
+🏃‍♂️ Early morning walker (4:30-5:30 AM) | ☕ Coffee-driven coder | 📖 Lifelong learner
+
+🌐 My Portfolios
 <div align="center">
-💬 Let's Connect
+💼 Professional Portfolio
 
-Open to technical discussions, collaborations and interesting engineering opportunities.
+🌌 Interactive 3D Portfolio
+
+</div>
+<div align="center">
+💬 Let's Connect!
+
+Open to collaborations, freelance opportunities, and tech discussions
 
 ⭐️ From GhadiSachin
 
