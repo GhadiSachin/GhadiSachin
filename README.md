@@ -144,6 +144,19 @@ Explore an interactive 3D experience showcasing my technical journey, projects, 
 
 ## 🔥 Featured Projects
 
+### 🔐 [OneTimeSecure](https://github.com/GhadiSachin/OneTimeSecure)
+
+**Tech Stack:** Add the technologies used in the project.
+
+A security-focused open-source project designed to explore secure, one-time access and privacy-conscious sharing. Built to encourage collaboration, learning, and community-driven improvements.
+
+🚀 **Contributions Welcome!**  
+Have ideas to improve the project? Feel free to explore the repository, report issues, suggest features, and submit pull requests.
+
+👉 [Explore OneTimeSecure on GitHub](https://github.com/GhadiSachin/OneTimeSecure)
+
+⭐ If you find this project useful, consider giving it a star and contributing to its growth!
+
 ### 🌟 [Learn Python with Me](https://github.com/GhadiSachin/Python-assignments-)
 **Tech Stack:** Python
 Learn Python from scratch with me.
